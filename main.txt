@@ -1,0 +1,2 @@
+git init		>> create a git
+git add filename	>> add filename to git
