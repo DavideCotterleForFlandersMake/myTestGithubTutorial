@@ -11,7 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="subVI" Type="Folder">
-			<Item Name="function1.vi" Type="VI" URL="../function1.vi"/>
+			<Item Name="function1.vi" Type="VI" URL="../subVI/function1.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
